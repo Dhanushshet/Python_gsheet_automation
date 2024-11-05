@@ -26,7 +26,7 @@
 ## 🛠️ Key Features:
 
 - **Automated Data Import**: Fetch courier data from an external Google Sheet.
-- **KPI Calculation**: Automatically calculate `TotalDeliveries`, `AverageWeight`, and determine `BestMonth`.
+- **KPI Calculation**: Automatically calculate `TotalDeliveries`,`AverageWeight`, and determine `BestMonth`.
 - **Macros**: Automate data refresh and update pivot tables.
 - **Pivot Tables**: Summarize courier performance data and insights.
 
